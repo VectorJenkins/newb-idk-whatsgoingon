@@ -21,7 +21,7 @@ def internet_on():
 #    subprocess.Popen([dir])
 #    subprocess.call(dir)
 #    break
-
+abcd-test=0
 flag = 0
 count = 0
 while(True):
